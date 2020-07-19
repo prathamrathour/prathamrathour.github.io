@@ -1,0 +1,74 @@
+html{
+	margin-bottom: 0px;
+}
+h3{
+	font-weight: 400;
+}
+body{
+	background: #e6eaeb;
+	background-size: cover;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	background-position: center;
+}
+.content{
+	margin-top: 100px;
+}
+h1{
+	font-size: 35px;
+	font-weight: 400;
+	color: #656d87;
+
+}
+h4{
+	padding-left: 10%;
+	padding-right: 10%;
+	font-weight: 250;
+	color: #656d87;
+	font-family: Nunito;
+
+}
+#trekophilia{
+	font-size: 90px;
+	color: white;
+}
+#phrase{
+	font-size: 30px;
+	color: white;
+}
+#img{
+	width: 100%;
+}
+
+.jumbo{
+	background-image: url('img/pic2.jpg');
+	background-size: cover;
+	background-position: center;
+
+}
+.navbar-custom{
+	background: #e6eaeb;
+}
+
+.jumbo2{
+	margin-top: 70px;
+	margin-bottom: 0px;
+}
+@media(max-width:1000px){
+	#trekophilia{
+	font-size: 60px;
+	
+}
+#phrase{
+	font-size: 20px;
+	
+}
+h4{
+	font-size: 20px;
+}
+h1{
+	font-size: 30px;
+}
+
+}
